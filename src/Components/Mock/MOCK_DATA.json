@@ -1,0 +1,404 @@
+{
+  "Details": [
+    {
+      "name": "Rosette Eate",
+      "role": "Graphic Designer",
+      "salary": "Yuan Renminbi",
+      "joindate": "1/8/2002",
+      "email": "reate0@indiatimes.com",
+      "status": "active"
+    },
+    {
+      "name": "Rossy Tewkesberrie",
+      "role": "Pharmacist",
+      "salary": "Pound",
+      "joindate": "11/18/2021",
+      "email": "rtewkesberrie1@wikispaces.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Tiffy Stapele",
+      "role": "Analyst Programmer",
+      "salary": "Yuan Renminbi",
+      "joindate": "5/18/2009",
+      "email": "tstapele2@geocities.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Jacinda Waith",
+      "role": "Community Outreach Specialist",
+      "salary": "Euro",
+      "joindate": "4/24/2016",
+      "email": "jwaith3@moonfruit.com",
+      "status": "active"
+    },
+    {
+      "name": "Otis Rushworth",
+      "role": "VP Product Management",
+      "salary": "Baht",
+      "joindate": "1/27/2008",
+      "email": "orushworth4@bloomberg.com",
+      "status": "active"
+    },
+    {
+      "name": "Raf Spottswood",
+      "role": "Registered Nurse",
+      "salary": "Franc",
+      "joindate": "9/8/2020",
+      "email": "rspottswood5@thetimes.co.uk",
+      "status": "pending"
+    },
+    {
+      "name": "Winona Simonsson",
+      "role": "Human Resources Assistant III",
+      "salary": "Euro",
+      "joindate": "5/9/2002",
+      "email": "wsimonsson6@google.co.uk",
+      "status": "pending"
+    },
+    {
+      "name": "Anthe Loude",
+      "role": "Research Associate",
+      "salary": "Rupiah",
+      "joindate": "10/24/2012",
+      "email": "aloude7@jiathis.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Clemmie Huard",
+      "role": "Senior Financial Analyst",
+      "salary": "Rupiah",
+      "joindate": "11/29/2003",
+      "email": "chuard8@jalbum.net",
+      "status": "active"
+    },
+    {
+      "name": "Waldo Vearnals",
+      "role": "Director of Sales",
+      "salary": "Yuan Renminbi",
+      "joindate": "5/31/2009",
+      "email": "wvearnals9@cbslocal.com",
+      "status": "pending"
+    },
+    {
+      "name": "Arielle Water",
+      "role": "Dental Hygienist",
+      "salary": "Rupiah",
+      "joindate": "7/21/2004",
+      "email": "awatera@icq.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Jackson Ficken",
+      "role": "Financial Analyst",
+      "salary": "Peso",
+      "joindate": "6/2/2020",
+      "email": "jfickenb@4shared.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Archambault Bartaloni",
+      "role": "Data Coordinator",
+      "salary": "Euro",
+      "joindate": "7/3/2008",
+      "email": "abartalonic@csmonitor.com",
+      "status": "pending"
+    },
+    {
+      "name": "Melesa Tallman",
+      "role": "Web Designer II",
+      "salary": "Euro",
+      "joindate": "4/6/2021",
+      "email": "mtallmand@woothemes.com",
+      "status": "pending"
+    },
+    {
+      "name": "Penny Serot",
+      "role": "Health Coach I",
+      "salary": "Sol",
+      "joindate": "7/2/2006",
+      "email": "pserote@google.es",
+      "status": "active"
+    },
+    {
+      "name": "Errol Frary",
+      "role": "Operator",
+      "salary": "Koruna",
+      "joindate": "9/20/2002",
+      "email": "efraryf@wp.com",
+      "status": "pending"
+    },
+    {
+      "name": "Janetta Jepps",
+      "role": "Quality Control Specialist",
+      "salary": "Rupiah",
+      "joindate": "12/23/2022",
+      "email": "jjeppsg@accuweather.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Chadwick Slyvester",
+      "role": "Administrative Officer",
+      "salary": "Shilling",
+      "joindate": "3/25/2004",
+      "email": "cslyvesterh@chron.com",
+      "status": "pending"
+    },
+    {
+      "name": "Tobe Huttley",
+      "role": "VP Accounting",
+      "salary": "Rupiah",
+      "joindate": "9/2/2011",
+      "email": "thuttleyi@cpanel.net",
+      "status": "active"
+    },
+    {
+      "name": "Konstantine Ioan",
+      "role": "Technical Writer",
+      "salary": "Krona",
+      "joindate": "6/12/2007",
+      "email": "kioanj@xrea.com",
+      "status": "active"
+    },
+    {
+      "name": "Kania Bravington",
+      "role": "Account Executive",
+      "salary": "Peso",
+      "joindate": "12/3/2008",
+      "email": "kbravingtonk@ted.com",
+      "status": "pending"
+    },
+    {
+      "name": "Mendel St. Leger",
+      "role": "Accountant IV",
+      "salary": "Rupiah",
+      "joindate": "1/22/2005",
+      "email": "mstl@simplemachines.org",
+      "status": "pending"
+    },
+    {
+      "name": "Ruddie Aris",
+      "role": "Research Nurse",
+      "salary": "Sol",
+      "joindate": "7/16/2022",
+      "email": "rarism@comcast.net",
+      "status": "pending"
+    },
+    {
+      "name": "Putnem Cardwell",
+      "role": "Social Worker",
+      "salary": "Euro",
+      "joindate": "2/5/2022",
+      "email": "pcardwelln@pagesperso-orange.fr",
+      "status": "active"
+    },
+    {
+      "name": "Martino Schleswig-Holstein",
+      "role": "Web Designer II",
+      "salary": "Quetzal",
+      "joindate": "12/20/2005",
+      "email": "mschleswigholsteino@bluehost.com",
+      "status": "active"
+    },
+    {
+      "name": "Beltran Twycross",
+      "role": "Project Manager",
+      "salary": "Rupiah",
+      "joindate": "4/18/2022",
+      "email": "btwycrossp@cmu.edu",
+      "status": "pending"
+    },
+    {
+      "name": "Marci Hedger",
+      "role": "Technical Writer",
+      "salary": "Euro",
+      "joindate": "2/14/2016",
+      "email": "mhedgerq@answers.com",
+      "status": "active"
+    },
+    {
+      "name": "Hamilton Krout",
+      "role": "Software Test Engineer III",
+      "salary": "Peso",
+      "joindate": "6/12/2012",
+      "email": "hkroutr@google.com.au",
+      "status": "inactive"
+    },
+    {
+      "name": "Barry Aaronson",
+      "role": "Data Coordinator",
+      "salary": "Dollar",
+      "joindate": "10/11/2009",
+      "email": "baaronsons@miitbeian.gov.cn",
+      "status": "active"
+    },
+    {
+      "name": "Buddie Babin",
+      "role": "Nurse",
+      "salary": "Ruble",
+      "joindate": "6/29/2015",
+      "email": "bbabint@nyu.edu",
+      "status": "inactive"
+    },
+    {
+      "name": "Hertha Tuftin",
+      "role": "Associate Professor",
+      "salary": "Yuan Renminbi",
+      "joindate": "9/14/2003",
+      "email": "htuftinu@netscape.com",
+      "status": "active"
+    },
+    {
+      "name": "Henriette Riehm",
+      "role": "Office Assistant II",
+      "salary": "Yuan Renminbi",
+      "joindate": "9/27/2012",
+      "email": "hriehmv@yelp.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Deeanne Antosik",
+      "role": "Director of Sales",
+      "salary": "Euro",
+      "joindate": "12/12/2017",
+      "email": "dantosikw@addthis.com",
+      "status": "active"
+    },
+    {
+      "name": "Ricca Quigley",
+      "role": "Quality Engineer",
+      "salary": "Yuan Renminbi",
+      "joindate": "5/15/2008",
+      "email": "rquigleyx@netscape.com",
+      "status": "pending"
+    },
+    {
+      "name": "Millisent Blanshard",
+      "role": "Compensation Analyst",
+      "salary": "Euro",
+      "joindate": "6/5/2014",
+      "email": "mblanshardy@newyorker.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Sibilla Chantree",
+      "role": "Help Desk Operator",
+      "salary": "Afghani",
+      "joindate": "1/15/2011",
+      "email": "schantreez@mayoclinic.com",
+      "status": "pending"
+    },
+    {
+      "name": "Shane Daniello",
+      "role": "Dental Hygienist",
+      "salary": "Pound",
+      "joindate": "4/25/2002",
+      "email": "sdaniello10@webmd.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Zachery Threadgould",
+      "role": "Operator",
+      "salary": "Yuan Renminbi",
+      "joindate": "9/1/2020",
+      "email": "zthreadgould11@flavors.me",
+      "status": "pending"
+    },
+    {
+      "name": "Sayers Harome",
+      "role": "Food Chemist",
+      "salary": "Lempira",
+      "joindate": "5/21/2014",
+      "email": "sharome12@dropbox.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Virge Clemenza",
+      "role": "Chief Design Engineer",
+      "salary": "Franc",
+      "joindate": "3/4/2016",
+      "email": "vclemenza13@techcrunch.com",
+      "status": "pending"
+    },
+    {
+      "name": "Deonne Berard",
+      "role": "Senior Sales Associate",
+      "salary": "Peso",
+      "joindate": "1/25/2010",
+      "email": "dberard14@ifeng.com",
+      "status": "pending"
+    },
+    {
+      "name": "Essie Bader",
+      "role": "Assistant Media Planner",
+      "salary": "Ringgit",
+      "joindate": "6/2/2016",
+      "email": "ebader15@odnoklassniki.ru",
+      "status": "pending"
+    },
+    {
+      "name": "Karlee Meneyer",
+      "role": "Office Assistant II",
+      "salary": "Rupiah",
+      "joindate": "11/30/2021",
+      "email": "kmeneyer16@privacy.gov.au",
+      "status": "active"
+    },
+    {
+      "name": "Devonne Spritt",
+      "role": "Research Associate",
+      "salary": "Real",
+      "joindate": "8/28/2001",
+      "email": "dspritt17@cdbaby.com",
+      "status": "active"
+    },
+    {
+      "name": "Clare Cribbott",
+      "role": "Civil Engineer",
+      "salary": "Peso",
+      "joindate": "11/2/2011",
+      "email": "ccribbott18@blog.com",
+      "status": "pending"
+    },
+    {
+      "name": "Carolee Hannen",
+      "role": "Research Associate",
+      "salary": "Euro",
+      "joindate": "9/25/2000",
+      "email": "channen19@xing.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Alta Sabates",
+      "role": "Analog Circuit Design manager",
+      "salary": "Franc",
+      "joindate": "10/17/2015",
+      "email": "asabates1a@apple.com",
+      "status": "pending"
+    },
+    {
+      "name": "Bili Clemenza",
+      "role": "VP Accounting",
+      "salary": "Yuan Renminbi",
+      "joindate": "4/26/2016",
+      "email": "bclemenza1b@usda.gov",
+      "status": "pending"
+    },
+    {
+      "name": "Francis Caccavari",
+      "role": "Media Manager IV",
+      "salary": "Euro",
+      "joindate": "1/2/2021",
+      "email": "fcaccavari1c@unc.edu",
+      "status": "pending"
+    },
+    {
+      "name": "Janetta Gooddie",
+      "role": "Pharmacist",
+      "salary": "Krone",
+      "joindate": "11/8/2017",
+      "email": "jgooddie1d@europa.eu",
+      "status": "active"
+    }
+  ]
+}
