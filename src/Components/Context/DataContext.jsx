@@ -1,5 +1,6 @@
 import React, { createContext, useState, useEffect } from 'react';
 import axios from 'axios';
+import MOCK_DATA from '../Mock/MOCK_DATA.json';
 
 // Create the context
 export const DataContext = createContext();
@@ -19,8 +20,12 @@ export const DataProvider = ({ children }) => {
             try {
                 const response = await axios.get('http://localhost:3000/Details'); // Replace with your server URL
                 setData(response.data);
+                setError(null); // Clear any previous errors
             } catch (err) {
-                setError('Failed to fetch data');
+                console.warn('Server not available, using mock data:', err.message);
+                setError('Server not connected. Displaying mock data.');
+                // Use mock data as fallback
+                setData(MOCK_DATA.Details);
             } finally {
                 setLoading(false);
             }
