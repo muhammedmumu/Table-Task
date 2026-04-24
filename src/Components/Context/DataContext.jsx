@@ -7,25 +7,31 @@ export const DataContext = createContext();
 
 // Create the provider component
 export const DataProvider = ({ children }) => {
-    const [data, setData] = useState([]);
-    const [loading, setLoading] = useState(true);
+    const [data, setData] = useState(MOCK_DATA.Details ?? []);
+    const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
 
     const [roleFilter, setRoleFilter] = useState('');
     const [statusFilter, setStatusFilter] = useState('');
+    const [searchTerm, setSearchTerm] = useState('');
+    const [notice, setNotice] = useState('');
 
     // Fetch data from the server
     useEffect(() => {
         const fetchData = async () => {
+            setLoading(true);
             try {
-                const response = await axios.get('http://localhost:3000/Details'); // Replace with your server URL
+                const response = await axios.get('http://localhost:3000/Details', {
+                    timeout: 3000,
+                });
                 setData(response.data);
                 setError(null); // Clear any previous errors
+                setNotice('');
             } catch (err) {
                 console.warn('Server not available, using mock data:', err.message);
-                setError('Server not connected. Displaying mock data.');
-                // Use mock data as fallback
-                setData(MOCK_DATA.Details);
+                setError(null);
+                setNotice('Server not connected. Displaying mock data.');
+                setData(MOCK_DATA.Details ?? []);
             } finally {
                 setLoading(false);
             }
@@ -43,6 +49,9 @@ export const DataProvider = ({ children }) => {
         setRoleFilter,
         statusFilter,
         setStatusFilter,
+        searchTerm,
+        setSearchTerm,
+        notice,
     };
 
     return <DataContext.Provider value={value}>{children}</DataContext.Provider>;
